@@ -19,7 +19,7 @@ export default createGlobalStyle`
   }
 
   input:focus, textarea:focus {
-    outline-color: ${props => props.theme.secondary1};
+    outline-color: '#453DBF';
   }
 
   body {
